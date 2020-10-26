@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "homework",
+    "authors": [
+        {
+            "name": "Lin Yu Lun",
+            "email": "wuyahayaa01@gmail.com"
+        }
+    ],
+    "require": {}
+}
